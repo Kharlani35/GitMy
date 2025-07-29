@@ -1,0 +1,51 @@
+body {
+  background-color: blue;
+}
+
+h1 {
+  
+  text-align: center;
+border-style: double;
+border-color: greenyellow;
+margin: 100px 30px 50px 30px;
+padding: 50px;
+
+}
+li{background-color: yellow;
+}
+
+p {
+  font-family: verdana;
+  font-size: 30px;
+}
+.classSecond {
+background-color: lightblue;
+opacity: 0.8;
+}
+li.classSecond{
+font-size: 50px;
+}
+#fname {
+width: 30%;
+height: 25px;
+}
+#lname {
+width: 30%;
+height: 25px;
+}
+a {
+color: green;
+}
+p a {
+color: white;
+}
+h1, h3, h5 {
+color: brown;
+}
+h3, h5 { 
+border-style: outset;
+padding: 35px;
+}
+h3 {
+text-decoration-line: underline;
+}
